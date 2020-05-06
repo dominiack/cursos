@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class inferencia {
+	
+	public static void main(String[] args) {
+		
+		var a = 2.6666
+				
+		
+		
+	}
+
+}

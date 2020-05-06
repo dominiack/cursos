@@ -1,0 +1,25 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		
+	  int f = '32;
+	  int v1 = 5;
+	  int v2 = 9;
+	  String a = "°F";
+	  String b = "°C";
+	  int res;
+	  
+	  
+	  res =  f * (v1/v2);
+	  
+	  System.out.println(res+b);
+	  
+	  
+	  
+	  
+	  
+		
+	}
+}

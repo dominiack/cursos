@@ -1,0 +1,9 @@
+package fundamentos;
+
+public class PrimitivoVsObjetos {
+
+	String  s = "texto";
+	s.toUpperCase();
+	
+	
+}

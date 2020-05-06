@@ -1,0 +1,12 @@
+package fundamentos;
+
+public class Teste {
+
+	public static void main(String[] args) {
+
+
+				String n = "Edimar";
+				
+				System.out.println(n);
+	}
+}

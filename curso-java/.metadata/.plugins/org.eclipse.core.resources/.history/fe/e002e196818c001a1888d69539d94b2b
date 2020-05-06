@@ -1,0 +1,15 @@
+package fundamentos;
+
+public class Wrapper {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Byte b = 1;
+		short s = 1000;
+		integer i = 10000;
+		
+
+	}
+
+}

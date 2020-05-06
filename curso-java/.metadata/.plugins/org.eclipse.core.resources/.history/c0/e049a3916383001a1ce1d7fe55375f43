@@ -1,0 +1,19 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		
+	  int f = -32;
+	  int divide = 5/9;
+	  String a = "°F";
+	  String b = "°C";
+	  int res;
+	  
+	  
+	  
+	  
+	  
+		
+	}
+}

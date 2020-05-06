@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		
+	  int f = 32;
+	  string a = "°F";
+	  
+	  
+		
+	}
+}

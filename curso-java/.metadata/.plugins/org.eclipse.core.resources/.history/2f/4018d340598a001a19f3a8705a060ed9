@@ -1,0 +1,26 @@
+package fundamentos;
+
+public class NotacaoPonto {
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		String s = "Edimar X";
+		s = s.toUpperCase();
+		
+		s = s.replace ("X", "Bom dia" );
+		
+	
+		
+		System.out.println(s);
+		
+		
+		
+	}
+	
+	
+	
+
+}
