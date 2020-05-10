@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1ce3409-c78b-43f7-843e-29b9f0fc59e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/curso-ant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agenda/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agenda/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/agenda/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.devstyle/recent.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.monitor/myeclipse-usage.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/color-definitions-fix.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/color-definitions-fix.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.buildship.ui-1231266899.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.buildship.ui-1231266899.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.egit.ui-1849137576.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.egit.ui-1849137576.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.epp.mpc.ui.css--1027399938.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.epp.mpc.ui.css--1027399938.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.jdt.ui-326703266.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.jdt.ui-326703266.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.mylyn.tasks.ui--477129374.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/colors-org.eclipse.mylyn.tasks.ui--477129374.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/splash-fix.css" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/com.genuitec.eclipse.ui.common.platform/splash-fix.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/clinica/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/clinica/.markers.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/clinica/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/clinica/.syncinfo.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/exercicios/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/exercicios/.markers.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/exercicios/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.projects/exercicios/.syncinfo.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/11.snap" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.resources/11.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/ccw.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/ccw.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.as.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.as.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.css.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.css.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.mxml.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.adobe.flexide.mxml.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.axmor.eclipse.typescript.editor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.axmor.eclipse.typescript.editor.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.dubture.twig.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.dubture.twig.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.monitor.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.sqlexplorer.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.sqlexplorer.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.eclipse.theming.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.github.rustdt.ide.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.github.rustdt.ide.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.google.eclipse.protobuf.Protobuf.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.google.eclipse.protobuf.Protobuf.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.googlecode.goclipse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.googlecode.goclipse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.palantir.typescript.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.palantir.typescript.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.powerflasher.fdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.powerflasher.fdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.puppetlabs.geppetto.module.dsl.Module.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.puppetlabs.geppetto.module.dsl.Module.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.puppetlabs.geppetto.pp.dsl.PP.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.puppetlabs.geppetto.pp.dsl.PP.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.spket.js.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.spket.js.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.spket.xml.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.spket.xml.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.wolfram.eclipse.MEET.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.wolfram.eclipse.MEET.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/de.walware.statet.base.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/de.walware.statet.base.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/de.walware.statet.r.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/de.walware.statet.r.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/eclihx.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/eclihx.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/jp.gr.java_conf.ussiy.app.propedit.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/jp.gr.java_conf.ussiy.app.propedit.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.sf.eclipsefp.haskell.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.sf.eclipsefp.haskell.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.sourceforge.texlipse.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.sourceforge.texlipse.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.vtst.ow.eclipse.less.Less.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/net.vtst.ow.eclipse.less.Less.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.apache.ivyde.eclipse.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.apache.ivyde.eclipse.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.cfeclipse.cfml.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.cfeclipse.cfml.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.chromium.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.chromium.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.cloudsmith.geppetto.pp.dsl.PP.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.cloudsmith.geppetto.pp.dsl.PP.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.codehaus.groovy.eclipse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.codehaus.groovy.eclipse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.dadacoalition.yedit.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.dadacoalition.yedit.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.angularjs.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.angularjs.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.dsf.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.dsf.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.make.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.make.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.datatools.sqltools.sqleditor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.datatools.sqltools.sqleditor.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.dltk.ruby.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.dltk.ruby.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.dltk.tcl.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.dltk.tcl.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.CSS.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.CSS.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.jsp.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.wikitext.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.wikitext.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.php.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.php.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.tm.terminal.control.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.tm.terminal.control.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.genericeditor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.genericeditor.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.css.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.css.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.dtd.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.dtd.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.html.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xsl.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xsl.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.xtend.core.Xtend.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.xtend.core.Xtend.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.epic.perleditor.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.epic.perleditor.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.erlide.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.erlide.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.ide.eclipse.freemarker.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.jboss.ide.eclipse.freemarker.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.nodeclipse.enide.editors.gradle.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.nodeclipse.enide.editors.gradle.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.nodeclipse.enide.editors.jade.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.nodeclipse.enide.editors.jade.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.python.pydev.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.python.pydev.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.sweetlemonade.eclipse.json.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.sweetlemonade.eclipse.json.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/winterwell.markdown.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.core.runtime/.settings/winterwell.markdown.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/1301684271.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/1558234620.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2155685345.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2158205419.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2254571451.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2458036738.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2476351216.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2777612265.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2831726757.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/2923218292.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/3259301653.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/3654592591.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/3732647088.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/3929848548.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/408771512.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/4276758565.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/555507292.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/741416789.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/911398812.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/971378871.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/clinica/bin/administracao/Agenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/clinica/bin/administracao/Agenda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/clinica/bin/pessoas/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/clinica/bin/pessoas/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/clinica/bin/pessoas/Medico.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/clinica/bin/pessoas/Medico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/clinica/bin/pessoas/Paciente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/clinica/bin/pessoas/Paciente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/clinica/bin/sistema/TelaAgendamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/clinica/bin/sistema/TelaAgendamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/clinica/bin/sistema/TelaPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/clinica/bin/sistema/TelaPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/AreaCircunferencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/ConversaoNumeroString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/ConversaoNumeroString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/ConversaoStringNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/ConversaoStringNumero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/ConversaoTiposPrimitivosNumericos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/ConversaoTiposPrimitivosNumericos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/Import.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/Import.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/NotacaoPonto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/NotacaoPonto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/PrimeiroPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/PrimeiroPrograma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/PrimitivoVsObjetos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/PrimitivoVsObjetos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/Temperatura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/TipoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/TiposPrimitivos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/Wrappers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/Wrappers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/console.class" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-java/exercicios/bin/fundamentos/console.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bfveig6JZTNAvUsPlTQ2IB04Y3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1ce3409-c78b-43f7-843e-29b9f0fc59e6" name="Default Changelist" comment="" />
+      <created>1589036059621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589036059621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="189" width="1022" height="728" key="SettingsEditor" timestamp="1589036292837">
+      <screen x="62" y="30" width="1858" height="1050" />
+    </state>
+    <state x="873" y="189" width="1022" height="728" key="SettingsEditor/62.30.1858.1050@62.30.1858.1050" timestamp="1589036292837" />
+    <state x="915" y="241" width="618" height="783" key="find.popup" timestamp="1589045546474">
+      <screen x="62" y="30" width="1858" height="1050" />
+    </state>
+    <state x="915" y="241" width="618" height="783" key="find.popup/62.30.1858.1050@62.30.1858.1050" timestamp="1589045546474" />
+    <state x="654" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1589045099940">
+      <screen x="62" y="30" width="1858" height="1050" />
+    </state>
+    <state x="654" y="261" width="672" height="678" key="search.everywhere.popup/62.30.1858.1050@62.30.1858.1050" timestamp="1589045099940" />
+  </component>
+</project>
